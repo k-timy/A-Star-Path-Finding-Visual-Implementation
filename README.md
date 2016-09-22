@@ -1,6 +1,8 @@
 # A-Star-Path-Finding-Visual-Implementation
 This is the implementation of A-Star(A*) Path Finding algorithm in windows forms using C# that I have done as a project for Artifical Intelligence Course At University.
 
+![Screen shot of a path found](https://github.com/k-timy/A-Star-Path-Finding-Visual-Implementation/blob/master/screenShot.jpg)
+
 ## Get This thing run!
 Follow the instructions to make this application run.
 
