@@ -23,4 +23,4 @@ Follow these steps:
 
 I would be glad to recieve your feedback on this project.
 
-**Note:** One thing to note is that,a datastruture called PriorityQueue is used in implementation of A-Star algorithm,I faked this data structure at the time,in order to focus on the A-Star itself.
+**Note:** One thing to note is that,a data struture called PriorityQueue is used in implementation of A-Star algorithm,I faked this data structure at the time,in order to focus on the A-Star itself.
