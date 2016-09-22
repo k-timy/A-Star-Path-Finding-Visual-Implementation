@@ -22,3 +22,5 @@ Follow these steps:
 4. In case you want to clear the screen of the map and repeat the path finding steps,you may click on "Clear" button.
 
 I would be glad to recieve your feedback on this project.
+
+**Note:** One thing to note is that,a data struture called PriorityQueue is used in implementation of A-Star algorithm,I faked this data structure at the time,in order to focus on the A-Star itself.
