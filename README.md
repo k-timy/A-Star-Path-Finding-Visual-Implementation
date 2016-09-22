@@ -2,6 +2,7 @@
 This is the implementation of A-Star(A*) Path Finding algorithm in windows forms using C# that I have done as a project for Artifical Intelligence Course At University.
 
 ## Get This thing run!
+Follow the instructions to make this application run.
 
 ### Map File:
   An image file that consists of only two colors.White pixels are representative of walkable areas of a map.and Black pixels stand for obstacles.You can use the sample map file as an example.
