@@ -166,7 +166,7 @@ namespace Dijkestra_Tiled_Graph_Visualizer
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            imageFilePath = "e:\\vstemp\\graph.bmp";
+            imageFilePath = "e:\\vstemp\\sampleMapFile.bmp";
             this.BackgroundImage = Image.FromFile(imageFilePath);
         }
 
